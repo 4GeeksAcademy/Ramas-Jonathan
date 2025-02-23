@@ -1,3 +1,11 @@
 body{
-    background: #BDBDBD;
+    background: white;
+}
+
+#text-h1{
+    font-size: 120px;
+}
+
+#text-h2{
+    font-size: 60px;
 }
